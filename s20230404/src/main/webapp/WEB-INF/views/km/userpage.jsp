@@ -33,7 +33,7 @@
 		<div class="container">
 			<div class="bar-label">${scoreCount.word}</div>
 			<div class="bar-container">
-				<div class="bar" style="width: 70%">
+				<div class="bar">
 					<div class="bar-text">${scoreCount.count}</div>
 				</div>
 			</div>
